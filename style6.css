@@ -1,0 +1,105 @@
+body{
+    text-align: center;
+}
+#wrapper{
+    width: 60%;
+    
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+    margin-left: 160px;
+    position: relative;
+    border: 2px solid;
+    height: 450px;
+    background: url(./forest3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#a img{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 150px;
+}
+#fy{
+    position: absolute;
+    left: 155px;
+    top: 15%;
+}
+#icon{
+    top: 45%;
+    position: absolute;
+    left: 150px;
+    width: 300px;
+    height: 40px;
+    background-color:rgb(66, 95, 66);
+    border: none;
+}
+#b img{
+    width:300px;
+    height: 200px;
+    position: absolute;
+    left: 550px;
+    
+}
+#fy1{
+    position: absolute;
+    left:554px ;
+    top: 15%;
+
+}
+#icon2{
+    width: 300px;
+    position: absolute;
+    top: 45%;
+    left: 550px;
+    height: 40px;
+    background-color: rgb(123, 151, 80);
+    border: none;
+}
+
+
+#c img{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 60%;
+    left: 150px;
+}
+#fy2{
+    position: absolute;
+    top: 61%;
+    left: 153px;
+}
+#icon3{
+    width: 300px;
+    position: absolute;
+    top: 90%;
+    left: 150px;
+    height: 40px;
+    background-color: rgb(148, 209, 175);
+    border: none;
+}
+#d img{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 60%;
+    left: 550px;
+}
+#icon4{
+    position: absolute;
+    top: 90%;
+    width: 300px;
+    left: 550px;
+    height: 40px;
+    background-color: rgb(87, 190, 87);
+    border: none;
+}
+#fy3{
+    position: absolute;
+    top: 61%;
+    left: 553px;
+}
